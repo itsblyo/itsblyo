@@ -2,139 +2,192 @@
   <img src="https://komarev.com/ghpvc/?username=Dev-Asfix&label=Profile%20views&color=ff00ff&style=flat" alt="Dev-Asfix" />
 </p>
 
-<h1 align="center" style="text-shadow: 0px 0px 50px #1abc9c;">Hi 💎, I'm Pablo Rosas R.</h1>
-<h3 align="center" style="color:#00ffcc; text-shadow: 0px 0px 80px #00dcff;">Java, HTML, CSS, Javascript, React, Spring Boot, SQL, Node.js</h3>
-<br>
-
-<h2 align="center" style="color:#00ffcc; text-shadow: 0px 0px 1px #00ffcc;">⚙️ Languages and Tools:</h2>
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%23B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+💱;Hi💎I'm+Pablo+Rosas+R.+💻;Backend+Developer+in+Java+☕;Spring+Boot+🔁" 
+      alt="Welcome to my profile, I'm Pablo Rosas R., Backend Developer in Java, Spring Boot Expert">
+  </a>
+
+  <h2 align="center"></h2>
+<p align="center">
+ <a href="rosasramirez753@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/pablo-rosas-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+     <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"  target="_blank" />
+  </a>
+</p>
 </div>
 
 <br>
 
-<table align="center" style="border: 2px solid #; border-radius: 10px; box-shadow: 0px 0px 15px #ffffff;">
- <tr>
-  <th>
-   <h3 align="center" style="color:#00ffcc; text-shadow: 0px 0px px #00ffcc;">Connect with me:</h3>
-  </th>
-  <th></th>
- </tr>
- <tr>
-  <td>
-   <p align="center">
+## ⚙️ Languages and Tools:
 
-<a href="https://www.linkedin.com/in/pablo-rosas-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dev Asfix" height="30" width="40" /></a>
+> Tools and technologies that I have worked with and am interested in.
 
-</p>
-
-  </td>
-  <td>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Asfix&layout=compact&theme=radical&title_color=ff00ff&icon_color=00ffcc&bg_color=000000&text_color=ffffff&border_color=ff00ff" alt="Dev-Asfix" /></p>
-  </td>
- </tr>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Icon" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="./gif/java.gif" height="40" alt="Java Icon" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API Icon" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL Icon" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git Icon" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker Icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman Icon" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux Icon" />
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML Icon" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS Icon" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap Icon" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Icon" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js Icon" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL Icon" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM Icon" />
+      <br>NPM
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown Icon" />
+      <br>Markdown
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress Icon" />
+      <br>WordPress
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode Icon" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma Icon" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva Icon" />
+      <br>Canva
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello Icon" />
+      <br>Trello
+    </td>
+  </tr>
 </table>
 
 <br>
 
-## 🚀 My Portfolio
-
-<a href="https://github.com/Dev-Asfix">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Asfix&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00ffcc&bg_color=000000&text_color=ffffff&border_color=00ffcc" alt="Dev-Asfix's GitHub stats" />
-</a>
-
-<a href="https://github.com/Dev-Asfix">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Asfix&theme=radical&border=00ffcc&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideLabels=00ffcc&background=000000" alt="GitHub Streak" />
-</a>
-
----
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+ <div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0px; background-color: rgba(0, 0, 0, 0.8);">
+  <img height="150" src="./gif/skill.gif" alt="Skill GIF" style="flex-shrink: 0; width: 30%; object-fit: contain;" />
+  
+  <div style="display: flex; justify-content: center; align-items: center; width: 100%; padding: 10px; background-color: transparent; color: white;">
+    <p style="font-size: 14px; font-family: 'Press Start 2P', cursive; text-align: center; line-height: 1.5;">
+      👨‍💻 Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java Backend Developer</strong> with expertise in <strong>Spring Boot</strong> and <strong>REST APIs</strong>. I specialize in creating scalable, secure, and high-performance applications that drive business solutions. I thrive on challenges and love building robust backend systems that power the most successful digital experiences. 🛠️
+    </p>
+  </div>
+  
+  <img height="150" src="./img/Dev.jpg" alt="Dev Image" style="flex-shrink: 0; width: 30%; object-fit: contain;" />
+</div>
+
+  <br>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <!-- Contenedor izquierdo -->
+  <div style="display: flex; flex-direction: column; gap: 20px; width: 400px;">
+    <!-- Estadísticas arriba -->
+    <a href="https://github.com/Dev-Asfix">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Asfix&theme=radical&border=00ffcc&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideLabels=00ffcc&background=000000" alt="GitHub Streak" />
+    </a>
+    <!-- Estadísticas abajo -->
+    <a href="https://github.com/Dev-Asfix">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Dev-Asfix&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00ffcc&bg_color=000000&text_color=ffffff&border_color=00ffcc" alt="GitHub Stats" />
+    </a>
+  </div>
+
+  <!-- Imagen a la derecha -->
+  <div>
+    <img height="500" src="./gif/plapc.gif" alt="Big Coding GIF" />
+  </div>
+</div>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img width="1200" src="https://github-profile-trophy.vercel.app/?username=Dev-Asfix&theme=algolia">
+</p>
+
+<br>
+
+---
+
+###
+
+###
+
+<br clear="both">
 
 ###
