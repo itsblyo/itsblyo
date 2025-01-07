@@ -139,39 +139,33 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake.svg" />
 </picture>
 
-<div align="center">
- <div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0px; background-color: rgba(0, 0, 0, 0.8);">
-  <img height="150" src="./gif/skill.gif" alt="Skill GIF" style="flex-shrink: 0; width: 30%; object-fit: contain;" />
-  
-  <div style="display: flex; justify-content: center; align-items: center; width: 100%; padding: 10px; background-color: transparent; color: white;">
-    <p style="font-size: 14px; font-family: 'Press Start 2P', cursive; text-align: center; line-height: 1.5;">
-      👨‍💻 Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java Backend Developer</strong> with expertise in <strong>Spring Boot</strong> and <strong>REST APIs</strong>. I specialize in creating scalable, secure, and high-performance applications that drive business solutions. I thrive on challenges and love building robust backend systems that power the most successful digital experiences. 🛠️
-    </p>
-  </div>
-  
-  <img height="150" src="./img/Dev.jpg" alt="Dev Image" style="flex-shrink: 0; width: 30%; object-fit: contain;" />
-</div>
-
-  <br>
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <!-- Contenedor izquierdo -->
-  <div style="display: flex; flex-direction: column; gap: 20px; width: 400px;">
-    <!-- Estadísticas arriba -->
-    <a href="https://github.com/Dev-Asfix">
-      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Asfix&theme=radical&border=00ffcc&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideLabels=00ffcc&background=000000" alt="GitHub Streak" />
-    </a>
-    <!-- Estadísticas abajo -->
-    <a href="https://github.com/Dev-Asfix">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Dev-Asfix&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00ffcc&bg_color=000000&text_color=ffffff&border_color=00ffcc" alt="GitHub Stats" />
-    </a>
+<div align="center" style="width: 100%; background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
+  <div style="display: inline-block; width: 30%; margin: 10px;">
+    <img height="150" src="./gif/skill.gif" alt="Skill GIF" style="object-fit: contain;" />
   </div>
 
-  <!-- Imagen a la derecha -->
-  <div>
-    <img height="500" width="50% " src="./gif/plapc.gif" alt="Big Coding GIF" />
+  <div style="display: inline-block; width: 30%; color: white; font-size: 16px; font-family: Arial, sans-serif; text-align: center;">
+    <p>👨‍💻 Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java Backend Developer</strong> with expertise in <strong>Spring Boot</strong> and <strong>REST APIs</strong>. I specialize in creating scalable, secure, and high-performance applications that drive business solutions. 🛠️</p>
+  </div>
+
+  <div style="display: inline-block; width: 30%; margin: 10px;">
+    <img height="150" src="./img/Dev.jpg" alt="Dev Image" style="object-fit: contain;" />
   </div>
 </div>
 
+<div style="display: flex; justify-content: center; gap: 20px; padding: 20px;">
+  <div style="width: 45%;">
+    <a href="https://github.com/Dev-Asfix">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Asfix&theme=radical&border=00ffcc&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideLabels=00ffcc&background=000000" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/Dev-Asfix">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Dev-Asfix&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00ffcc&bg_color=000000&text_color=ffffff&border_color=00ffcc" alt="GitHub Stats" />
+    </a>
+  </div>
+
+  <div style="width: 45%;">
+    <img height="500" width="100%" src="./gif/plapc.gif" alt="Big Coding GIF" />
+  </div>
 </div>
 
 <br>
