@@ -140,16 +140,16 @@
 </picture>
 
 <div align="center" style="width: 100%; background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
-  <div style="display: inline-block; width: 30%; margin: 10px;">
-    <img height="150" src="./gif/skill.gif" alt="Skill GIF" style="object-fit: contain;" />
+  <div  style="display: inline-block; width: 30%; margin: 10px;">
+    <img align="left" height="150" src="./gif/skill.gif" alt="Skill GIF" style="object-fit: contain;" />
   </div>
 
   <div style="display: inline-block; width: 30%; color: white; font-size: 16px; font-family: Arial, sans-serif; text-align: center;">
     <p>👨‍💻 Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java Backend Developer</strong> with expertise in <strong>Spring Boot</strong> and <strong>REST APIs</strong>. I specialize in creating scalable, secure, and high-performance applications that drive business solutions. 🛠️</p>
   </div>
 
-  <div style="display: inline-block; width: 30%; margin: 10px;">
-    <img height="150" src="./img/Dev.jpg" alt="Dev Image" style="object-fit: contain;" />
+  <div  style="display: inline-block; width: 30%; margin: 10px;">
+    <img height="150" src="./img/Dev.jpg" alt="Dev Image" style="object-fit: contain;"  align="right" />
   </div>
 </div>
 
