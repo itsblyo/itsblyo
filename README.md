@@ -158,17 +158,17 @@
   <div style="display: flex; flex-direction: column; gap: 20px; width: 400px;">
     <!-- Estadísticas arriba -->
     <a href="https://github.com/Dev-Asfix">
-      <img width="100% " src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Asfix&theme=radical&border=00ffcc&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideLabels=00ffcc&background=000000" alt="GitHub Streak" />
+      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Asfix&theme=radical&border=00ffcc&ring=ff00ff&fire=ff00ff&currStreakNum=ffffff&sideLabels=00ffcc&background=000000" alt="GitHub Streak" />
     </a>
     <!-- Estadísticas abajo -->
     <a href="https://github.com/Dev-Asfix">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Dev-Asfix&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00ffcc&bg_color=000000&text_color=ffffff&border_color=00ffcc" alt="GitHub Stats" />
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Dev-Asfix&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00ffcc&bg_color=000000&text_color=ffffff&border_color=00ffcc" alt="GitHub Stats" />
     </a>
   </div>
 
   <!-- Imagen a la derecha -->
   <div>
-    <img height="500" src="./gif/plapc.gif" alt="Big Coding GIF" />
+    <img height="500" width="50% " src="./gif/plapc.gif" alt="Big Coding GIF" />
   </div>
 </div>
 
