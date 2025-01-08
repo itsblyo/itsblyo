@@ -133,7 +133,6 @@
 
 </p>
 
-
 <h2 align="center">            ~ 📇 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 📇 ~</h2>
  <br>
 <p>
@@ -164,6 +163,37 @@ Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java B
 <br>
 <br>
 
+<h2 align="center">            ~ ᴍʏ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ💠🌐 ~</h2>
+
+<br/>
+
+<table align="center">
+
+  <tr>
+    <!-- Project 1 -->
+    <td width="25%" align="center" style="padding: 10px;">
+      <a href="https://github.com/Dev-Asfix/Foro-Hub">
+        <img src="./img/proyects/foro.png" alt="Foro Hub" width="100%">
+      </a>
+      <br>
+      <a href="">
+        <img src="https://img.shields.io/badge/Not%20Deployed-FF0000?style=for-the-badge&logo=git&logoColor=white" alt="Not Deployed">
+      </a>
+          <!-- Project 2 -->
+    </td>
+    <td width="25%" align="center" style="padding: 10px;">
+      <a href="https://github.com/Dev-Asfix/IE-Dios-es-Amor">
+        <img src="./gif/proyect/logoie.gif" alt="Pagina Web" width="100%">
+      </a>
+      <br>
+      <a href="https://ie-dios-es-amor.vercel.app/">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+      </a>
+    </td>
+  </tr>
+
+</table>
+
 <h2 align="center">            ~ ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ ɢᴀᴍᴇ🐍🎮 ~</h2>
  <br>
 <picture>
@@ -171,9 +201,6 @@ Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java B
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake.svg" />
 </picture>
-
-
-
 
 <h2 align="center">📉 GitHub Stats</h2>
 <div>
@@ -196,6 +223,3 @@ Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java B
     </a>
   </p>
 </div>
-
-
-
