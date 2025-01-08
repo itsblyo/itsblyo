@@ -162,6 +162,7 @@ Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java B
 <br>
 <br>
 <br>
+<br>
 
 <h2 align="center">            ~ ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ ɢᴀᴍᴇ🐍🎮 ~</h2>
  <br>
@@ -197,15 +198,4 @@ Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java B
 </div>
 
 
-
-
-  <div style="width: 45%;">
-    <img align="right" height="500" src="./gif/plapc.gif" alt="Big Coding GIF" />
-  </div>
-
-
-
-<a href="https://github.com/Dev-Asfix">
-  <img src="https://camo.githubusercontent.com/798ce69ae93dc63cc8f1a1bf7bfafae3bf3d80cf1ebd53e7865544597ea6dda4/68747470733a2f2f7472796861636b6d652d6261646765732e73332e616d617a6f6e6177732e636f6d2f74696c6c656e6431783130302e706e67" alt="Dev-Asfix GitHub">
-</a>
 
