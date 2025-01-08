@@ -137,7 +137,9 @@
 
 
 <h2 align="center">            ~ 📇 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 📇 ~</h2>
+ <img src="./gif/flecha.gif" alt="Flecha" width="100%">
  <br>
+ 
 <p>
   <div align="center">
 <img height="300" src="./img/Dev.jpg" alt="Dev Image" style="object-fit: contain;"  align="right" />
