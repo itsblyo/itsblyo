@@ -169,7 +169,7 @@ Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java B
 <br>
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
-<h2 align="center">            ~ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ💠🌐 ~</h2>
+<h2 align="center"> ~ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ 💠🌐 ~ </h2>
 
 <br/>
 
@@ -177,28 +177,35 @@ Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java B
 
   <tr>
     <!-- Project 1 -->
-    <td width="25%" align="center" style="padding: 10px;">
+    <td height="40%" width="25%" align="center" style="padding: 10px;">
       <a href="https://github.com/Dev-Asfix/Foro-Hub">
-        <img src="./img/proyects/foro.png" alt="Foro Hub" width="50%">
+        <img src="./img/proyects/foro.png" alt="Foro Hub" width="50%" height="70%">
       </a>
       <br>
+<p style="text-align: justify; width: 80%;">
+    <img src="https://img.shields.io/badge/Java-%23F7B731.svg?&style=for-the-badge&logo=java&logoColor=black&labelColor=F5C542" alt="Java Badge" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=black&labelColor=00FF00" alt="Spring Boot Badge" />
+</p>
       <a href="">
         <img src="https://img.shields.io/badge/Not%20Deployed-FF0000?style=for-the-badge&logo=git&logoColor=white" alt="Not Deployed">
       </a>
-          <!-- Project 2 -->
     </td>
-    <td width="25%" align="center" style="padding: 10px;">
+    <!-- Project 2 -->
+    <td height="40%" width="25%" align="center" style="padding: 10px;">
       <a href="https://github.com/Dev-Asfix/IE-Dios-es-Amor">
-        <img src="./gif/proyect/logoie.gif" alt="Pagina Web" width="50%">
+        <img src="./gif/proyect/logoie.gif" alt="Pagina Web" width="50%" height="70%" >
       </a>
       <br>
+<p style="text-align: justify; width: 80%;">
+    <img src="https://img.shields.io/badge/Responsive%20Website-%23F8C471.svg?&style=for-the-badge&logo=html5&logoColor=black&labelColor=FF5733" alt="Responsive Website Badge" />
+</p>
       <a href="https://ie-dios-es-amor.vercel.app/">
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
       </a>
-    </td>
   </tr>
 
 </table>
+
 
 <h2 align="center">            ~ ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ ɢᴀᴍᴇ🐍🎮 ~</h2>
  <br>
