@@ -8,6 +8,7 @@
       alt="Welcome to my profile, I'm Pablo Rosas R., Backend Developer in Java, Spring Boot Expert">
   </a>
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
+  <h2 align="center"></h2>
 
 <p align="center">
  <a href="rosasramirez753@gmail.com">
@@ -133,7 +134,7 @@
 
 </p>
 
-<img src="./gif/flecha.gif" alt="Flecha" width="100%">
+
 
 <h2 align="center">            ~ 📇 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 📇 ~</h2>
  <br>
@@ -164,6 +165,7 @@ Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java B
 <br>
 <br>
 <br>
+<img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
 <h2 align="center">            ~ ᴍʏ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ💠🌐 ~</h2>
 
