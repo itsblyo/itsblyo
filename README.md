@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%23B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+💱;Hi💎I'm+Pablo+Rosas+R.+💻;Backend+Developer+in+Java+☕;Spring+Boot+🔁" 
       alt="Welcome to my profile, I'm Pablo Rosas R., Backend Developer in Java, Spring Boot Expert">
   </a>
-<img src="./gif/flecha.gif" alt="Flecha" width="100%">
+
   <h2 align="center"></h2>
 
 <p align="center">
