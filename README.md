@@ -173,7 +173,7 @@ Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java B
     <!-- Project 1 -->
     <td width="25%" align="center" style="padding: 10px;">
       <a href="https://github.com/Dev-Asfix/Foro-Hub">
-        <img src="./img/proyects/foro.png" alt="Foro Hub" width="100%">
+        <img src="./img/proyects/foro.png" alt="Foro Hub" width="50%">
       </a>
       <br>
       <a href="">
@@ -183,7 +183,7 @@ Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java B
     </td>
     <td width="25%" align="center" style="padding: 10px;">
       <a href="https://github.com/Dev-Asfix/IE-Dios-es-Amor">
-        <img src="./gif/proyect/logoie.gif" alt="Pagina Web" width="100%">
+        <img src="./gif/proyect/logoie.gif" alt="Pagina Web" width="50%">
       </a>
       <br>
       <a href="https://ie-dios-es-amor.vercel.app/">
