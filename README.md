@@ -133,13 +133,6 @@
 
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake.svg" />
-</picture>
-
-
 
 <h2 align="center">            ~ 📇 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 📇 ~</h2>
  <br>
@@ -169,6 +162,15 @@ Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java B
 <br>
 <br>
 <br>
+
+<h2 align="center">            ~ ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ ɢᴀᴍᴇ🐍🎮 ~</h2>
+ <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake.svg" />
+</picture>
+
 
 
 
