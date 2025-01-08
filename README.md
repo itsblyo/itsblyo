@@ -169,7 +169,7 @@ Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java B
 <br>
 <img src="./gif/flecha.gif" alt="Flecha" width="100%">
 
-<h2 align="center">            ~ ᴍʏ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ💠🌐 ~</h2>
+<h2 align="center">            ~ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ💠🌐 ~</h2>
 
 <br/>
 
