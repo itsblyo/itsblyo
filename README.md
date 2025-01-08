@@ -139,19 +139,37 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dev-Asfix/Dev-Asfix/output/github-snake.svg" />
 </picture>
 
-<div align="center" style="width: 100%; background-color: rgba(0, 0, 0, 0.8); padding: 20px;">
-  <div  style="display: inline-block; width: 30%; margin: 10px;">
-    <img align="left" height="150" src="./gif/skill.gif" alt="Skill GIF" style="object-fit: contain;" />
-  </div>
 
-  <div style="display: inline-block; width: 30%; color: white; font-size: 16px; font-family: Arial, sans-serif; text-align: center;">
-    <p>👨‍💻 Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java Backend Developer</strong> with expertise in <strong>Spring Boot</strong> and <strong>REST APIs</strong>. I specialize in creating scalable, secure, and high-performance applications that drive business solutions. 🛠️</p>
-  </div>
 
-  <div  style="display: inline-block; width: 30%; margin: 10px;">
-    <img height="150" src="./img/Dev.jpg" alt="Dev Image" style="object-fit: contain;"  align="right" />
+<h2 align="center">            ~ 📇 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 📇 ~</h2>
+ <br>
+<p>
+  <div align="center">
+<img height="300" src="./img/Dev.jpg" alt="Dev Image" style="object-fit: contain;"  align="right" />
   </div>
 </div>
+<div>
+  <br>
+<p align="center">
+<!-- Java (Dark Neon) -->
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=black&labelColor=00FF00" alt="Java Badge" />
+
+<!-- Spring Boot (Dark Neon) -->
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=black&labelColor=00FF00" alt="Spring Boot Badge" />
+
+<!-- SQL (Dark Neon) -->
+<img src="https://img.shields.io/badge/SQL-%2300758F.svg?&style=for-the-badge&logo=postgresql&logoColor=black&labelColor=00FF00" alt="SQL Badge" />
+
+  <br>
+<img align="left" height="120" src="./gif/skill.gif" alt="Skill GIF" style="object-fit: contain;" /> <br><br>
+Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Java Backend Developer</strong> with expertise in <strong>Spring Boot</strong> and <strong>REST APIs</strong>. I specialize in creating scalable, secure, and high-performance applications that drive business solutions. 🛠️
+</p>
+<br>
+
+<br>
+<br>
+<br>
+
 
 
 <h2 align="center">📉 GitHub Stats</h2>
@@ -178,29 +196,14 @@
 
 
 
-<div >
-    <a href="https://github.com/Dev-Asfix">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Dev-Asfix&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00ffcc&bg_color=000000&text_color=ffffff&border_color=00ffcc" alt="GitHub Stats" />
-    </a>
+
   <div style="width: 45%;">
     <img align="right" height="500" src="./gif/plapc.gif" alt="Big Coding GIF" />
   </div>
-</div>
 
-<br>
 
-<p align="center">
-  <img width="1200" src="https://github-profile-trophy.vercel.app/?username=Dev-Asfix&theme=algolia">
-</p>
 
-<br>
+<a href="https://github.com/Dev-Asfix">
+  <img src="https://camo.githubusercontent.com/798ce69ae93dc63cc8f1a1bf7bfafae3bf3d80cf1ebd53e7865544597ea6dda4/68747470733a2f2f7472796861636b6d652d6261646765732e73332e616d617a6f6e6177732e636f6d2f74696c6c656e6431783130302e706e67" alt="Dev-Asfix GitHub">
+</a>
 
----
-
-###
-
-###
-
-<br clear="both">
-
-###
