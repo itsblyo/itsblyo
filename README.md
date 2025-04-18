@@ -9,10 +9,11 @@
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%23B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+💱;Hi💎I'm+Pablo+Rosas+R.+💻;Backend+Developer+in+Java+☕;Spring+Boot+🔁" 
-      alt="Welcome to my profile, I'm Pablo Rosas R., Backend Developer in Java, Spring Boot Expert">
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+💱;Hi💎I'm+Pablo+Rosas+R.+💻;Backend+Developer+in+Java+☕;Spring+Boot+🔁" 
+       alt="Welcome to my profile, I'm Pablo Rosas R., Backend Developer in Java, Spring Boot Expert">
+</p>
+
 
   <h2 align="center"></h2>
 
