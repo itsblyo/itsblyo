@@ -20,7 +20,6 @@
 
 <div align="center">
 
-
   <p align="center">
     <a href="mailto:rosasramirez753@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -36,142 +35,141 @@
 
 <br>
 
-## Languages and Tools
+## 🛠️ Languages & Tools
 
-> Tools and technologies that I have worked with and am interested in.
+> Technologies I work with and keep learning every day
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Icon" />
-      <br>Spring
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
+      <br><strong>Spring</strong>
     </td>
     <td align="center" width="96">
-      <img src="./gif/java.gif" height="40" alt="Java Icon" />
-      <br>Java
+      <img src="./gif/java.gif" height="40" alt="Java" />
+      <br><strong>Java</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API Icon" width="65" height="65" />
-      <br>REST API
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+      <br><strong>NestJS</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL Icon" />
-      <br>PostgreSQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+      <br><strong>Next.js</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git Icon" />
-      <br>Git
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Icon" width="65" height="65" />
-      <br>GitHub
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br><strong>Docker</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker Icon" width="65" height="65" />
-      <br>Docker
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><strong>Git</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman Icon" />
-      <br>Postman
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br><strong>GitHub</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux Icon" />
-      <br>Linux
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML Icon" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS Icon" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap Icon" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Icon" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js Icon" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL Icon" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM Icon" />
-      <br>NPM
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown Icon" />
-      <br>Markdown
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br><strong>Linux</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress Icon" />
-      <br>WordPress
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode Icon" />
-      <br>VSCode
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br><strong>TypeScript</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma Icon" />
-      <br>Figma
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br><strong>React</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva Icon" />
-      <br>Canva
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br><strong>Node.js</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello Icon" />
-      <br>Trello
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br><strong>HTML</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br><strong>CSS</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br><strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br><strong>Postman</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <br><strong>REST API</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br><strong>Figma</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
+      <br><strong>WordPress</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
+      <br><strong>NPM</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown" />
+      <br><strong>Markdown</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+      <br><strong>Canva</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello" />
+      <br><strong>Trello</strong>
     </td>
   </tr>
 </table>
 
-<br>
-
 ## About Me
 
-<img src="./gif/flecha.gif" alt="Divider" width="100%">
-
 <br>
 
-<div align="center">
-  <img height="300" src="./img/Dev.jpg" alt="Dev Image" style="object-fit: contain;" align="right" />
-</div>
+<table>
+  <tr>
+    <td width="65%" align="center" valign="middle">
+      <p style="max-width: 600px; margin: 0 auto; font-size: 1.05em; line-height: 1.8; text-align: justify;">
+        Hi, I'm <strong>Pablo Aldair Rosas Ramirez</strong>, a passionate <strong>Backend Developer</strong> with expertise in <strong>Java</strong>, <strong>Spring Boot</strong>, and <strong>REST APIs</strong>. I also work with <strong>NestJS</strong> and <strong>Next.js</strong> to build full-stack solutions. I specialize in creating scalable, secure, and high-performance applications that drive business solutions.
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="./img/Dev.jpg" alt="Dev Image" style="max-width: 100%; height: auto; border-radius: 12px; max-width: 200px;" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fitsblyo&label=Repos&query=%24.public_repos&color=15151f&style=for-the-badge&labelColor=black" alt="Public repos" />
-  <img src="https://img.shields.io/github/followers/itsblyo?label=Followers&style=for-the-badge&color=15151f&labelColor=black" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fitsblyo&label=Following&query=%24.following&color=15151f&style=for-the-badge&labelColor=black" alt="Following" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=black&labelColor=00FF00" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=black&labelColor=00FF00" alt="Spring Boot Badge" />
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?&style=for-the-badge&logo=postgresql&logoColor=black&labelColor=00FF00" alt="SQL Badge" />
-</p>
-
-<br>
-
-Hi, I'm **Pablo Aldair Rosas Ramirez**, a passionate **Java Backend Developer** with expertise in **Spring Boot** and **REST APIs**. I specialize in creating scalable, secure, and high-performance applications that drive business solutions.
-
-<br clear="left">
-
-<img src="./gif/flecha.gif" alt="Divider" width="100%">
+<br clear="both">
 
 ## Contribution Snake
 
